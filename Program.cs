@@ -156,3 +156,20 @@ methods to calculate the sum based on user input
 //     }
 //     return sum;
 // }
+
+
+/* 
+This code calculates the value of two numbers
+*/
+
+// bool exit = false;
+// var rand = new Random();
+// int num1 = 5;
+// int num2 = 5;
+
+// do
+// {
+//     num1 = rand.Next(1, 11);
+//     num2 = num1 + rand.Next(1, 51);
+
+// } while (exit == false);
