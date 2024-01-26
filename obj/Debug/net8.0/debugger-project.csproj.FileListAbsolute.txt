@@ -1,0 +1,15 @@
+/Users/troycaselli/dev/projects/debugger-project/bin/Debug/net8.0/debugger-project
+/Users/troycaselli/dev/projects/debugger-project/bin/Debug/net8.0/debugger-project.deps.json
+/Users/troycaselli/dev/projects/debugger-project/bin/Debug/net8.0/debugger-project.runtimeconfig.json
+/Users/troycaselli/dev/projects/debugger-project/bin/Debug/net8.0/debugger-project.dll
+/Users/troycaselli/dev/projects/debugger-project/bin/Debug/net8.0/debugger-project.pdb
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.AssemblyInfoInputs.cache
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.AssemblyInfo.cs
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.csproj.CoreCompileInputs.cache
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.sourcelink.json
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.dll
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/refint/debugger-project.dll
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.pdb
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/debugger-project.genruntimeconfig.cache
+/Users/troycaselli/dev/projects/debugger-project/obj/Debug/net8.0/ref/debugger-project.dll
