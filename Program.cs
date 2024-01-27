@@ -1,34 +1,16 @@
-﻿/* 
-This code uses a names array and corresponding methods to display
-greeting messages
-*/
+﻿using System;
 
-string[] names = new string[] { "Sophia", "Andrew", "AllGreetings" };
-
-string messageText = "";
-
-foreach (string name in names)
+public class Program
 {
-    if (name == "Sophia")
-        messageText = SophiaMessage();
-    else if (name == "Andrew")
-        messageText = AndrewMessage();
-    else if (name == "AllGreetings")
-        messageText = SophiaMessage();
-    messageText = messageText + "\n\r" + AndrewMessage();
+    public static void Main()
+    {
+        // Greetings.Run();
+        // ProductData.Run();
+        // NumberSum.Run();
+        // CalculateNumbers.Run();
+        // ChangeValue.Run();
+        // TryCatch.Run();
+        TryCatch.RunChallenge();
 
-    Console.WriteLine(messageText + "\n\r");
-}
-
-bool pauseCode = true;
-while (pauseCode == true) ;
-
-static string SophiaMessage()
-{
-    return "Hello, my name is Sophia.";
-}
-
-static string AndrewMessage()
-{
-    return "Hi, my name is Andrew. Good to meet you.";
+    }
 }
