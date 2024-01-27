@@ -9,7 +9,8 @@ public class Program
         // NumberSum.Run();
         // CalculateNumbers.Run();
         // ChangeValue.Run();
-        TryCatch.Run();
+        // TryCatch.Run();
+        TryCatch.RunChallenge();
 
     }
 }
