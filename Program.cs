@@ -12,7 +12,7 @@ public class Program
         // TryCatch.Run();
         // TryCatch.RunChallenge();
         // CustomExceptions.FindAverageOfEvenNumbers();
-        CustomExceptions.ProcessData();
-
+        // CustomExceptions.ProcessData();
+        ClassTill.Run();
     }
 }
