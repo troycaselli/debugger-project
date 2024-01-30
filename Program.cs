@@ -10,7 +10,8 @@ public class Program
         // CalculateNumbers.Run();
         // ChangeValue.Run();
         // TryCatch.Run();
-        TryCatch.RunChallenge();
+        // TryCatch.RunChallenge();
+        CustomExceptions.FindAverageOfEvenNumbers();
 
     }
 }
