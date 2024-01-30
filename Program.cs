@@ -11,7 +11,8 @@ public class Program
         // ChangeValue.Run();
         // TryCatch.Run();
         // TryCatch.RunChallenge();
-        CustomExceptions.FindAverageOfEvenNumbers();
+        // CustomExceptions.FindAverageOfEvenNumbers();
+        CustomExceptions.ProcessData();
 
     }
 }
