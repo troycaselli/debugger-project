@@ -13,6 +13,6 @@ public class Program
         // TryCatch.RunChallenge();
         // CustomExceptions.FindAverageOfEvenNumbers();
         // CustomExceptions.ProcessData();
-        ClassTill.Run();
+        CashTill.Run();
     }
 }
